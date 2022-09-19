@@ -1,1 +1,1 @@
-shell scripting is so cool
+shell scripting
