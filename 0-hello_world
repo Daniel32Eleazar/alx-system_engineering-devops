@@ -1,0 +1,41 @@
+
+. .
+.1-compiler.swp
+function that reads a text file and prints it to the POSIX standard o…
+Jul 28, 2022
+0-preprocessor
+a script that runs a C file through the preprocessor and save the res…
+Jun 2, 2022
+1-compiler
+a script that compiles a C file but does not link
+Jun 2, 2022
+100-intel
+script that generates the assembly code (Intel syntax)
+Jun 2, 2022
+101-quote.c
+Printing with write
+Jun 2, 2022
+2-assembler
+script that generates the
+Jun 2, 2022
+3-name
+script that compiles a C file and creates an executable named cisfun
+Jun 2, 2022
+4-puts.c
+Printing string using puts and checking with betty
+Jun 2, 2022
+5-printf.c
+Printing with printf and adding a new line with \n
+Jun 2, 2022
+6-size.c
+C
+Jun 2, 2022
+README.md
+a script that runs a C file through the preprocessor and save the res…
+Jun 2, 2022
+a.out
+Printing with write
+Jun 2, 2022
+README.md
+
+C script that runs a C file through the preprocessor and save the result into another file
